@@ -1,2 +1,2 @@
 #!/bin/bash
- nls --indicator-style=slash -xma' 
+ls --indicator-style=slash -xma' 
