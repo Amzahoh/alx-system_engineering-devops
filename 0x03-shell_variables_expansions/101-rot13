@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' | tr {a..m} {n..z}
+echo "$1" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
