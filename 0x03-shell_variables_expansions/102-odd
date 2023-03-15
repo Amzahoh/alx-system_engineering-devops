@@ -1,0 +1,2 @@
+#!/bin/bash
+ls-1 / | past - - |cat -f 1
