@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 / | past - - | cat -f 1
+ls -1 / | past - - | cut -f 1
